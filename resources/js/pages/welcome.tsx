@@ -13,7 +13,6 @@ export default function Welcome({
     }, (err) => {
         console.error(`Error: ${err.message}`);
     });
-    //testing
 
 
 
