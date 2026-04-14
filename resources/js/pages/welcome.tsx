@@ -14,8 +14,6 @@ export default function Welcome({
         console.error(`Error: ${err.message}`);
     });
 
-
-
     return (
         <>
             {/*<Head title="Welcome">*/}
